@@ -1,0 +1,20 @@
+{
+  "name": "open-payments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PipeWebMonetization/open-payments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PipeWebMonetization/open-payments/issues"
+  },
+  "homepage": "https://github.com/PipeWebMonetization/open-payments#readme"
+}
